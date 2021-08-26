@@ -12,7 +12,3 @@
 * [AaveV2DepositBridge](bridges/readme.md)
 * [UniswapV2SwapBridge](bridges/readme-1.md)
 
-## Security
-
-* [Audits](security/audits.md)
-
