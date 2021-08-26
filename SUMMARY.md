@@ -4,10 +4,15 @@
 
 ## IndexPool Protocol
 
-* [IndexPool](README.md)
-* [Wallet](README.md)
+* [IndexPool](indexpool-protocol/readme.md)
+* [Wallet](indexpool-protocol/readme-1.md)
 
 ## Bridges
 
-* [AaveV2DepositBridge](README.md)
-* [UniswapV2SwapBridge](README.md)
+* [AaveV2DepositBridge](bridges/readme.md)
+* [UniswapV2SwapBridge](bridges/readme-1.md)
+
+## Security
+
+* [Audits](security/audits.md)
+
