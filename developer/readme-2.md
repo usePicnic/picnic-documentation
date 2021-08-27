@@ -8,6 +8,8 @@ description: This is about the IndexPool contract implementation.
 
 ## DepositPortfolio
 
+## EditPortfolio
+
 ## WithdrawPortfolio
 
 

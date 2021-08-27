@@ -1,17 +1,24 @@
 ---
-description: "\U0001F44B Welcome to IndexPool' docs. This documentation aims to provide a high-level overview of the protocol and its existing components."
+description: WIP
 ---
 
 # Getting Started
 
 ## What is IndexPool?
 
-IndexPool is a **DeFi portfolio sharing protocol,** which means you can build portfolios of investments in multiple DeFi protocols in a single transaction and share this portfolios with others.
+IndexPool is a DeFi portfolio sharing protocol that enables you to **build or copy portfolios of investments in multiple DeFi protocols in a single transaction**.
 
-Currently, users can participate:
+## How to copy a portfolio?
 
-* create their own portfolios
-* share portfolios they have created so other people can easily replicate it
+## How to create a portfolio?
+
+## How to share a portfolio?
+
+## How to earn IndexPool tokens?
+
+
+
+
 
 
 
