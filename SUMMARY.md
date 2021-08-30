@@ -15,7 +15,7 @@
 * [Wallet](developer/readme-1-1.md)
 * [Bridges](developer/bridges/README.md)
   * [Creating a new Bridge](developer/bridges/creating-a-new-bridge.md)
-  * [Implemented Bridges](developer/bridges/implemented-bridges/README.md)
+  * [Trusted Bridges](developer/bridges/implemented-bridges/README.md)
     * [AaveV2DepositBridge](developer/bridges/implemented-bridges/readme.md)
     * [UniswapV2SwapBridge](developer/bridges/implemented-bridges/readme-1.md)
 

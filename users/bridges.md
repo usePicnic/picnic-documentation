@@ -6,11 +6,21 @@ description: WIP
 
 ## What are bridges?
 
-Bridges are smart contracts that IndexPool uses to connect with other DeFi protocols.
+Bridges are smart contracts that IndexPool uses to interact with other DeFi protocols.
 
-For example we have a bridge to do swaps on Uniswap. It is just a wrapper that generates data in the format we need to process in back-end and display on the UI.
+For example we have a bridge to do swaps on Uniswap, a bridge to do deposits on Aave... They help us understand the transactions and make them visible in the IndexPool app.
 
 ## How bridges interact with the Portfolio NFT?
 
-Once a bridge is called it has the power to use available funds in the NFT. So it is extremely important only to interact with trusted bridges.
+Once a bridge is called it can use the available funds in the NFT. It is extremely important only to interact with trusted bridges, which are the only available bridges by default in the IndexPool plataform, which means that as long you are at indexpool.org you are safe from interacting with untrusted bridges.
+
+## What is a trusted bridge?
+
+A trusted bridge is a bridge that was written or reviewed by the IndexPool team and have gone through a formal audit process. 
+
+### How can I get a bridge to my portfolio to integrate with IndexPool?
+
+Follow these guidelines and fill up this form so we can review your bridge and integrate it with our protocol.
+
+
 
