@@ -2,11 +2,11 @@
 
 ## Untrusted bridges
 
-Bridge calls have complete control over your wallet funds. One easy way to avoid using unstrusted bridges is by interacting with the IndexPool protocol though indexpool.org. 
+Bridge calls have complete control over your wallet funds. One easy way to avoid using unstrusted bridges is by interacting with the IndexPool protocol though indexpool.org and not adding any custom bridges into the app. 
 
 #### How to know if a Bridge is trusted:
 
-The easiest way is to use indexpool.org, the only bridges displayed in there are trusted bridges. For more advanced users that are building something on top of IndexPool, here is a list of trusted bridges.
+For more advanced users, here is a list of trusted bridges.
 
 ## Smart contract risk
 

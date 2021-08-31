@@ -6,7 +6,7 @@ description: WIP
 
 ## What is an NFT? 
 
-An NFT is basically any token that is non-fungible, which means it is differentiable from other tokens. 
+An NFT is basically any token that is non-fungible, which means it is differentiable from other tokens.
 
 ## Why a portfolio NFT?
 
@@ -18,7 +18,7 @@ As portfolios are non-fungible by definition, using an NFT to represent them is 
 
 Every NFT has it is own address in the blockchain which owns that NFT portfolio funds. If you have 1.34253 ETH in your portfolio, you will be guaranteed to have exactly this amount in your portfolio, as it won't be shared in a Pool and exposed to some kind of rebalancing logic.
 
-This architecture also easily enables the NFT owner to access airdrops, yields in different and unexpected tokens.How are funds safe?
+This architecture also easily enables the NFT owner to access airdrops, yields in different and unexpected tokens.
 
 
 

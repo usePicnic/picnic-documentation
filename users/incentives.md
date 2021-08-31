@@ -8,7 +8,7 @@ To earn IndexPool tokens you need to use IndexPool, you received some X amount b
 
 ## Actions that earn tokens
 
-1. **Total value locked** - The more you deposit the more you earn
-2. **Bring users to the platform** - Users that arrive through IndexPool through one of your portfolios / links will earn you tokens based on their TVL
-3. **Get existing users to invest in your portfolio** - If existing users find and copy your portfolio on IndexPool you will earn tokens.
+1. **Total value deposited** - The more you deposit in the IndexPool protocol the more you earn
+2. **Bring users to the platform** - Users that arrive through IndexPool through one of your portfolios will earn you tokens based on their TVL
+3. **Get existing users to invest in your portfolio** - If existing IndexPool users find and copy your portfolio on IndexPool you will earn tokens.
 
