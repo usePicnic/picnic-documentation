@@ -1,5 +1,5 @@
 ---
-description: A high level overview of IndexPool architecture
+description: A high-level overview of IndexPool architecture
 ---
 
 # Overview
