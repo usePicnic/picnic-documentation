@@ -1,5 +1,5 @@
 ---
-description: WIP
+description: 'Waiting for UI to be ready so we can take some screeshots and make a guide :D'
 ---
 
 # Getting Started
@@ -12,11 +12,19 @@ Our goal is to make investing in DeFi as simple and acessible as possible.
 
 ## How to copy a portfolio?
 
+Waiting for UI to be ready so we can take some screeshots and make a guide :D
+
 ## How to create a portfolio?
+
+Waiting for UI to be ready so we can take some screeshots and make a guide :D
 
 ## How to share a portfolio?
 
+Waiting for UI to be ready so we can take some screeshots and make a guide :D
+
 ## How to earn IndexPool tokens?
+
+Waiting for UI to be ready so we can take some screeshots and make a guide :D
 
 
 

@@ -19,7 +19,7 @@
     * [Creating a new Bridge](developer/contracts/bridges/creating-a-new-bridge.md)
     * [Trusted Bridges](developer/contracts/bridges/implemented-bridges/README.md)
       * [AaveV2DepositBridge](developer/contracts/bridges/implemented-bridges/readme.md)
-      * [UniswapV2SwapBridge](developer/contracts/bridges/implemented-bridges/readme-1.md)
+      * [QuickswapSwapBridge](developer/contracts/bridges/implemented-bridges/readme-1.md)
 
 ## Deployed Contracts
 

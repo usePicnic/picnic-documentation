@@ -68,7 +68,7 @@ Withdraws funds from the portfolio after rearranging allocation \(optional\).
 | :--- | :--- |
 | nftId | NFT Id that will have funds deposited into |
 | outputs | ERC20 token address and percentages that will exit the contract |
-| outputEthPercentage | Percentage of ETH in portfolio that will exit the contract |
+| outputEthPercentage | Percentage of ETH in portfolio that will exit the contract  \(100000 = 100%\) |
 | bridgeAddresses | Addresses of deployed bridge contracts |
 | bridgeEncodedCalls | Encoded calls to be passed on to delegate calls |
 
