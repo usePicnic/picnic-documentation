@@ -19,6 +19,8 @@
     * [Trusted Bridges](developer/contracts/bridges/implemented-bridges/README.md)
       * [AaveV2DepositBridge](developer/contracts/bridges/implemented-bridges/readme.md)
       * [QuickswapSwapBridge](developer/contracts/bridges/implemented-bridges/readme-1.md)
+    * [Bridge Helpers](developer/contracts/bridges/bridge-helpers/README.md)
+      * [AutofarmAddressToPoolId](developer/contracts/bridges/bridge-helpers/autofarmaddresstopoolid.md)
 
 ## Deployed Contracts
 
