@@ -6,7 +6,7 @@ Bridge calls have complete control over your wallet funds. One easy way to avoid
 
 #### How to know if a Bridge is trusted:
 
-For more advanced users, here is a list of trusted bridges.
+For more advanced users, here is a [list of trusted bridges](https://docs.indexpool.org/developer/contracts/bridges/trusted-bridges).
 
 ## Smart contract risk
 
