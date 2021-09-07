@@ -1,5 +1,7 @@
 ---
-description: "\U0001F44B Welcome to Pods' docs. This documentation aims to provide a high-level overview of the protocol and its existing components."
+description: >-
+  This is the interface to use the protocol, it mints NFTs and routes all
+  functions call through Wallets and Bridges.
 ---
 
 # IndexPool

@@ -1,6 +1,6 @@
 # AutofarmAddressToPoolId
 
-The purpose of this contract is to enable `AutofarmDepositBridge` to comply with the `IStake` interface.
+The purpose of this contract is to enable `AutofarmDepositBridge` to comply with the `IStake` interface. This happens because the Autofarm contract requires a poolId, that is not easily mapped to an ERC20 address, so we had to create the mapping ourselves.
 
 ## GetPoolId
 

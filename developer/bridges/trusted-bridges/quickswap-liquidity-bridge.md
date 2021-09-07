@@ -2,7 +2,7 @@
 
 ## AddLiquidity
 
-Deposits a ERC20 token into the Autofarm protocol.
+Deposits ERC20 tokens into a liquidity pool protocol.
 
 | Input Name | Description |
 | :--- | :--- |
@@ -20,7 +20,7 @@ Deposits a ERC20 token into the Autofarm protocol.
 
 ## AddLiquidityETH
 
-Claim rewards from the Autofarm protocol.
+Deposits ERC20 token\(s\) and ETH \(Matic\) into a liquidity pool protocol. Please note that function is not payable but it uses the Wallet ETH balance for the swap. 
 
 | Input Name | Description |
 | :--- | :--- |

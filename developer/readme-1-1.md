@@ -1,5 +1,7 @@
 ---
-description: "\U0001F44B Welcome to Pods' docs. This documentation aims to provide a high-level overview of the protocol and its existing components."
+description: >-
+  This is a contract that is only accessed by the Portfolio NFT Owner through
+  the IndexPool protocol.
 ---
 
 # Wallet

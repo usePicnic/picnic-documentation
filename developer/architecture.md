@@ -12,3 +12,5 @@ The communication between the Wallet and other DeFi protocols is made through th
 
 ![IndexPool architecture](../.gitbook/assets/image%20%284%29.png)
 
+The IndexPool protocol acts as a gatekeeper to only allow Portfolio NFT owners to interact with their respective Wallet contracts.
+

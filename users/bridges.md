@@ -12,7 +12,7 @@ For example we have a bridge to do swaps on Uniswap, a bridge to do deposits on 
 
 Bridges are always called directly from the Wallet linked to the Portfolio NFT. Bridges have the power to use all the available funds in that particular Portfolio NFT. So, it is extremely important only to interact with trusted bridges \(see below\).
 
-_See_ [_IndexPool architecture_](https://docs.indexpool.org/developer/architecture) _for a more technical reference on how bridges interacts with IndexPool._
+_See_ [_IndexPool architecture_](https://docs.indexpool.org/developer/architecture) _for a technical reference on how bridges interacts with IndexPool._
 
 ## What is a trusted bridge?
 

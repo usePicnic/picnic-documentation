@@ -1,6 +1,8 @@
-# Trusted Bridges
+---
+description: These are the bridges that have been reviewed by the IndexPool team.
+---
 
-For an overview on bridges check [this](https://docs.indexpool.org/users/bridges). 
+# Trusted Bridges
 
 ## List of trusted bridges:
 
