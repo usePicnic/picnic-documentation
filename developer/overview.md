@@ -10,5 +10,5 @@ Only the NFT owner can use his Wallet contract to deposit or withdraw MATIC and 
 
 The communication between the Wallet and other DeFi protocols is made through the Bridge contracts: the function `useBridges` of each Wallet contract execute batched delegate calls to Bridge functions, allowing great extensibility and composability with multiple protocols.
 
-![IndexPool architecture](../.gitbook/assets/indexpool-2x%20%282%29.png)
+![IndexPool architecture](../.gitbook/assets/image%20%284%29.png)
 
