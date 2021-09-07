@@ -4,17 +4,21 @@
 
 Bridges are smart contracts that IndexPool uses to interact with other DeFi protocols.
 
-For example we have a bridge to do swaps on Uniswap, a bridge to do deposits on Aave... Bridges extend functionality into the IndexPool protocol and emits events that are used to display transactions in the IndexPool app.
+For example we have a bridge to do swaps on Uniswap, a bridge to do deposits on Aave, or a bridge to any other DeFi protocol. Bridges extend functionality into the IndexPool protocol and emits events that are used to display transactions in the IndexPool app.
 
 ## How bridges interact with the Portfolio NFT?
 
-Once a bridge is called it can use the available funds in the NFT. 
+![Wallets link with bridges to enable integrations with DeFi protocols](../.gitbook/assets/image%20%286%29.png)
 
-It is extremely important only to interact with trusted bridges, which are the only available bridges by default in the IndexPool plataform, which means that as long you as you don't any any custom bridges to your [indexpool.org](http://indexpool.org/) app you are safe from interacting with untrusted bridges.
+Bridges are always called directly from the Wallet linked to the Portfolio NFT. Bridges have the power to use all the available funds in that particular Portfolio NFT. So, it is extremely important only to interact with trusted bridges \(see below\).
 
-See [IndexPool architecture](https://docs.indexpool.org/developer/architecture) as a reference on how bridges connect with the Portfolio NFT and Wallets.
+_See_ [_IndexPool architecture_](https://docs.indexpool.org/developer/architecture) _for a more technical reference on how bridges interacts with IndexPool._
 
 ## What is a trusted bridge?
 
-A trusted bridge is a bridge that was written or reviewed by the IndexPool team. Once the IndexPool protocol goes through an audit, trusted bridges will also be audited.
+A trusted bridge is a bridge that was reviewed by the IndexPool team. Once the IndexPool protocol goes through an audit, trusted bridges will also be audited.
+
+Trusted bridges are the only available bridges by default in the IndexPool app, which means that as long you as you don't add any custom bridges to your [indexpool.org](http://indexpool.org/) app you are safe from interacting with untrusted bridges.
+
+
 
