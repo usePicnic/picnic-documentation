@@ -18,5 +18,5 @@ Every Portfolio NFT owns a Wallet, which is a separate address \(one and only on
 
 This architecture easily enables the Portfolio NFT to collect airdrops, yields in different and unexpected tokens and it is also more resistant to being hacked by other users, as Wallet funds can only be accessed with the explicit Portfolio NFT owner permission.
 
-You have the guarantee that if there is 1.34253 ETH in your portfolio, you will keep exactly this amount in your portfolio until you decide to allocate it differently, as there is a separate address on the blockchain just for your NFT Portfolio funds, which won't be shared in a pool between users and exposed to any kind of rebalancing logic.
+Different from other DeFI protocols which create a shared portfolio with **many** users, the portfolio funds in your own Wallet is **not shared between users**: this guarantees that **only** you \(as the NFT owner\) can decide what is the best allocation for your portfolio. For example, if there is 1.34253 ETH in your portfolio, you will keep exactly this amount in your portfolio until you, and only you, decide to allocate it differently.
 
