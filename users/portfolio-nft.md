@@ -2,11 +2,13 @@
 
 ## What is a portfolio NFT?
 
-IndexPool is a DeFi portfolio sharing protocol, where you can copy, create and share portfolios with other people. Let's see how it works under the hood.
+IndexPool is a DeFi portfolio sharing protocol where you can copy, create and share portfolios with other people. Let's see how it works under the hood.
 
-Those portfolios are represented by an NFT, which is a widely accepted standard for non-fungible assets, which are tokens that are differentiable from each other.
+IndexPool portfolios are represented by an NFT, which is a widely accepted standard for non-fungible assets, which are tokens that are differentiable from each other.
 
-A portfolio NFT is basically a portfolio being represented by a token \(that can be transfered, displayed on opensea, or do anything else that can be done with an NFT\)
+Whenever you put any crypto assets into the IndexPool protocol, you receive back an NFT, which in turn owns all the assets in your portfolio. If you transfer the NFT to someone else, all the asset on that NFT will be now in the possesion of the new NFT owner.
+
+A portfolio NFT is basically a portfolio being represented by a token \(that can be transfered, displayed on opensea, or anything else that can be done with an NFT\).
 
 ### Why a portfolio NFT?
 
