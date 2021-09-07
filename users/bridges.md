@@ -1,7 +1,3 @@
----
-description: WIP
----
-
 # Bridges
 
 ## What are bridges?
