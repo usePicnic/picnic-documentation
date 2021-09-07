@@ -1,6 +1,8 @@
 # Trusted Bridges
 
-Here is a list of trusted bridges:
+For an overview on bridges check [this](https://docs.indexpool.org/users/bridges). 
+
+## List of trusted bridges:
 
 | Bridge Name | Github |
 | :--- | :--- |

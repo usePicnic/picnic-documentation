@@ -1,12 +1,14 @@
 # Risk
 
-## Untrusted bridges
+## Bridge risk
 
-Bridge calls have complete control over your wallet funds. One easy way to avoid using unstrusted bridges is by interacting with the IndexPool protocol though indexpool.org and not adding any custom bridges into the app. 
+Only the Portfolio NFT owner can call bridges that affect its portfolio funds, so the only way a bridge can impact the funds is if the Portfolio NFT owner called them. Once bridges are called, they have complete control over wallet funds, so it is of utmost importance to only call bridges that are trusted.
 
-#### How to know if a Bridge is trusted:
+Bridges that have not been reviewed by the IndexPool team are considered untrusted by IndexPool and will not be present by default in the UI. If you want to intereract with untrusted bridges you may encounter malicious intent or unreviewed contracts that might be extra-risky.
 
-For more advanced users, here is a [list of trusted bridges](https://docs.indexpool.org/developer/contracts/bridges/trusted-bridges).
+#### How to know if a Bridge was reviewed by IndexPool:
+
+Only trusted and reviewed bridges are displayed by default in [indexpool.org](http://indexpool.org/). We also have a [list of trusted bridges](https://docs.indexpool.org/developer/contracts/bridges/trusted-bridges).
 
 ## Smart contract risk
 
@@ -14,7 +16,7 @@ IndexPool is currently on an unaudited version. Code is public on [github](https
 
 ## DeFi protocol risk
 
-Every action on a DeFi protocol carries all the risk embeded in that protocol, be it smart contract risk, risk of liquidation at a loss, or simply price risk.
+Every action on a DeFi protocol carries all the risk embeded in that protocol, be it smart contract risk, risk of liquidation at loss, or simply price risk.
 
-We are working only with protocols that have been deemed secure and that have gone through audits and that have significant assets locked into it, meaning that there is a huge incentive to hack it, and no one has done it yet.
+In order to mitigate this kind of risk, we are prioritizing integrations with protocols that have been battle tested, gone through audits, and that have significant value locked into them.
 

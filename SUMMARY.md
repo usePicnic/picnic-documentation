@@ -10,7 +10,7 @@
 
 ## Developer
 
-* [Overview](developer/overview.md)
+* [Architecture](developer/architecture.md)
 * [IndexPool](developer/readme-2.md)
 * [Wallet](developer/readme-1-1.md)
 * [Bridges](developer/bridges/README.md)

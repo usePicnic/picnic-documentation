@@ -1,30 +1,22 @@
 # Portfolio NFT
 
-## What is a portfolio NFT?
+## What is a Portfolio NFT?
 
-IndexPool is a DeFi portfolio sharing protocol where you can copy, create and share portfolios with other people. Let's see how it works under the hood.
+Whenever you put any crypto assets into IndexPool by creating or copying a portfolio protocol, a new Portfolio NFT is minted. The Portfolio NFT owns all the funds deposited into it and its owner is the address that created it.
 
-IndexPool portfolios are represented by an NFT, which is a widely accepted standard for non-fungible assets, which are tokens that are differentiable from each other.
-
-Whenever you put any crypto assets into the IndexPool protocol, you receive back an NFT, which in turn owns all the assets in your portfolio. If you transfer the NFT to someone else, all the asset on that NFT will be now in the possesion of the new NFT owner.
-
-A portfolio NFT is basically a portfolio being represented by a token \(that can be transfered, displayed on opensea, or anything else that can be done with an NFT\).
+This Portfolio NFT has standard NFT functionalities, you can transfer it to someone else \(all the assets in the portfolio will go with it\), display it or list it for sale on OpenSea...
 
 ### Why a portfolio NFT?
 
-Building a portfolio manually produces a non-fungible result because every portfolio is slightly different as it depends on execution prices, stake generating different yields over time depending on stake dates, etc.
+Building a portfolio produces a non-fungible result because every portfolio is slightly different as it depends on execution prices, different yields being generated over time according to deposit timestamps, etc.
 
-As portfolios are non-fungible, using an NFT to represent them is the natural choice of architecture.
+## Wallet
 
-## NFT architecture
+Every Portfolio NFT owns a Wallet, which is a separate address \(one and only one for each NFT\) that owns all funds relative to that Portfolio NFT. Funds stored in a specific Wallet can only be accessed with explicit permission from the Portfolio NFT owner linked to that Wallet.
 
-If you have 1.34253 ETH in your portfolio, you will be guaranteed to have exactly this amount in your portfolio, as it won't be shared in a Pool and exposed to some kind of rebalancing logic.
+![One and only one Wallet for Portfolio NFT](../.gitbook/assets/image%20%285%29.png)
 
-### Wallet
+This architecture easily enables the Portfolio NFT to collect airdrops, yields in different and unexpected tokens and it is also more resistant to being hacked by other users, as Wallet funds can only be accessed with the explicit Portfolio NFT owner permission.
 
-Each NFT owns a Wallet, which is a separate address \(one for each NFT\) that owns all funds relative to that NFT. This architecture also easily enables the NFT owner to collect airdrops, yields in different and unexpected tokens and also makes it much more robust in terms of funds being hacked by other users, as only NFT owner can access the Wallet funds.
-
-![IndexPool contract relationship with Wallets](../.gitbook/assets/image%20%281%29.png)
-
-There is one Wallet for each NFT id.
+You have the guarantee that if there is 1.34253 ETH in your portfolio, you will keep exactly this amount in your portfolio until you decide to allocate it differently, as there is a separate address on the blockchain just for your NFT Portfolio funds, which won't be shared in a pool between users and exposed to any kind of rebalancing logic.
 
