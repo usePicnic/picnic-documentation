@@ -4,11 +4,13 @@
 
 Only the Portfolio NFT owner can call bridges that affect its portfolio funds, so the only way a bridge can impact the funds is if the Portfolio NFT owner called them. Once bridges are called, they have complete control over wallet funds, so it is of utmost importance to only call bridges that are trusted.
 
-Bridges that have not been reviewed by the IndexPool team are considered untrusted by IndexPool and will not be present by default in the UI. If you want to intereract with untrusted bridges you may encounter malicious intent or unreviewed contracts that might be extra-risky.
+Bridges that have not been reviewed by the IndexPool team are considered untrusted by IndexPool and will not be present by default in the UI. If you want to interact with untrusted bridges you may encounter malicious intent or unreviewed contracts that might be extra-risky.
 
+{% hint style="info" %}
 #### How to know if a Bridge was reviewed by IndexPool:
 
 Only trusted and reviewed bridges are displayed by default in [indexpool.org](http://indexpool.org/). We also have a [list of trusted bridges](https://docs.indexpool.org/developer/contracts/bridges/trusted-bridges).
+{% endhint %}
 
 ## Smart contract risk
 
