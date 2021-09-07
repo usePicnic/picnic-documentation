@@ -2,9 +2,9 @@
 
 ## What is a Portfolio NFT?
 
-Whenever you put any crypto assets into IndexPool by creating or copying a portfolio protocol, a new Portfolio NFT is minted. The Portfolio NFT owns all the funds deposited into it and its owner is the address that created it.
+Whenever you put any crypto assets into IndexPool by creating or copying a portfolio, a new Portfolio NFT is minted. The Portfolio NFT owns all the funds deposited into it and its owner is the address that created it.
 
-This Portfolio NFT has standard NFT functionalities, you can transfer it to someone else \(all the assets in the portfolio will go with it\), display it or list it for sale on OpenSea...
+This Portfolio NFT has standard NFT functionalities: you can transfer it to someone else \(all the assets in the portfolio will go with it\), display it or list it for sale on OpenSea...
 
 ### Why a portfolio NFT?
 
