@@ -24,5 +24,7 @@ If you have 1.34253 ETH in your portfolio, you will be guaranteed to have exactl
 
 Each NFT owns a Wallet, which is a separate address \(one for each NFT\) that owns all funds relative to that NFT. This architecture also easily enables the NFT owner to collect airdrops, yields in different and unexpected tokens and also makes it much more robust in terms of funds being hacked by other users, as only NFT owner can access the Wallet funds.
 
-![IndexPool contract relationship with Wallets](https://gblobscdn.gitbook.com/assets%2F-MbS412x4vAoAOC75BdK%2F-MiXSWGudfMI1r1XKgQ-%2F-MiXYxwH0kG4qdTlAcia%2FIndexPool%402x.png?alt=media&token=63dc3d4a-636c-4bf1-97c2-c550b456a487)
+![IndexPool contract relationship with Wallets](../.gitbook/assets/image%20%281%29.png)
+
+There is one Wallet for each NFT id.
 
