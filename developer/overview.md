@@ -4,7 +4,7 @@ description: A high-level overview of IndexPool architecture
 
 # Overview
 
-IndexPool inherits from the [ERC721 contract](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721). Each NFT minted by IndexPool deploys a Wallet contract that  is associated to this NFT and the owner of the NFT \(i.e. the caller of the `createPortfolio`\).
+IndexPool inherits from the [ERC721 contract](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721). Each NFT minted by IndexPool deploys a Wallet contract that is associated to this NFT and the owner of the NFT \(i.e. the caller of the `createPortfolio`\).
 
 Only the NFT owner can use his Wallet contract to deposit or withdraw MATIC and ERC20-compliant tokens by using the IndexPool contract functions `depositPortfolio`, `editPortfolio` and `withdrawPortfolio`.
 

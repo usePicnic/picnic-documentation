@@ -1,5 +1,5 @@
 ---
-description: 'Waiting for UI to be ready so we can take some screeshots and make a guide :D'
+description: "\U0001F44B Welcome to Pods' docs. This documentation aims to provide a high-level overview of the protocol and its existing components."
 ---
 
 # Getting Started
@@ -19,16 +19,4 @@ Waiting for UI to be ready so we can take some screeshots and make a guide :D
 ## How to share a portfolio?
 
 Waiting for UI to be ready so we can take some screeshots and make a guide :D
-
-## How to earn IndexPool tokens?
-
-Waiting for UI to be ready so we can take some screeshots and make a guide :D
-
-
-
-
-
-
-
-
 
