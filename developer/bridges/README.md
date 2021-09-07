@@ -8,5 +8,7 @@ Approvals of tokens and other steps necessary to interact with the protocol all 
 
 We use it to generate events that are processed so we have all the data we need to build our backend quite easily.
 
-## List of Trusted Bridges
+## Interfaces
+
+
 
