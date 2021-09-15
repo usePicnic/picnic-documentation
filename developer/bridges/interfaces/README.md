@@ -1,14 +1,18 @@
 # Interfaces
 
-Interfaces are a way to standardize bridges.
+Bridges interfaces are solidity [Interfaces](https://docs.soliditylang.org/en/latest/contracts.html?highlight=Interfaces#interfaces) that standardize IndexPool bridges according to their purpose. 
 
-Bridges inherit from interfaces.
+1. Bridges inherit from interfaces.
+2. Interfaces have events that have to be used to have a consistent UI / UX for our users.
 
-Interfaces have events that have be to be used to have a consistent UI / UX for our users.
+Current interfaces and its purposes are given below:
 
-Current interfaces are:
+| Interface | For bridges implementing... | Children bridges |
+| :--- | :--- | :--- |
+| ISwap | swap operations | QuickswapSwapBridge.sol |
+| ILiquidity | add/remove liquidity operations | QuickswapLiquidityBridge.sol |
+| IStake | staking operations | AaveV2DepositBridge.sol |
+| IWrap | wrapping operations | WMaticBridge.sol |
 
-* ISwap -&gt; Wraps swap operations
-* ILiquidity -&gt; Wraps add liquidity operations
-* IStake -&gt; Wrap stake operations
+
 
