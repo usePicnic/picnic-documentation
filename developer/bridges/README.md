@@ -26,7 +26,3 @@ Interfaces are abstract structures that define how bridges should behave dependi
 
 These are bridges reviewed by us.
 
-## Bridge Helpers
-
-Helpers are contract we have built to help bridges in some way. The only helper we have at the moment works to enables us to have a mapping from token address to poolId, a parameter that is specific for the a`AutofarmDepositBridge` contract.
-

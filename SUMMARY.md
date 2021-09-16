@@ -24,10 +24,13 @@
     * [AutofarmDepositBridge](developer/bridges/trusted-bridges/autofarm-deposit-bridge.md)
     * [QuickswapLiquidityBridge](developer/bridges/trusted-bridges/quickswap-liquidity-bridge.md)
     * [QuickswapSwapBridge](developer/bridges/trusted-bridges/quickswap-swap-bridge.md)
-  * [Bridge Helpers](developer/bridges/bridge-helpers/README.md)
-    * [AutofarmAddressToPoolId](developer/bridges/bridge-helpers/autofarmaddresstopoolid.md)
+    * [WMaticBridge](developer/bridges/trusted-bridges/wmaticbridge.md)
 
 ## Deployed Contracts
 
 * [Polygon](deployed-contracts/polygon.md)
+
+## Source Code
+
+* [Github](source-code/github.md)
 
