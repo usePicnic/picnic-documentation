@@ -24,7 +24,7 @@
     * [AutofarmDepositBridge](developer/bridges/trusted-bridges/autofarm-deposit-bridge.md)
     * [QuickswapLiquidityBridge](developer/bridges/trusted-bridges/quickswap-liquidity-bridge.md)
     * [QuickswapSwapBridge](developer/bridges/trusted-bridges/quickswap-swap-bridge.md)
-    * [WMaticBridge](developer/bridges/trusted-bridges/wmaticbridge.md)
+    * [WMaticWrapBridge](developer/bridges/trusted-bridges/wmaticwrapbridge.md)
 
 ## Deployed Contracts
 
