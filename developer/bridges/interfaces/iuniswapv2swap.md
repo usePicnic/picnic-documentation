@@ -1,4 +1,4 @@
-# ISwap
+# IUniswapV2Swap
 
 ## FromETHToToken
 

@@ -1,4 +1,4 @@
-# ILiquidity
+# IUniswapV2Liquidity
 
 ## Functions
 
