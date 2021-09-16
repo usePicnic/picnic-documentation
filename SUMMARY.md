@@ -7,6 +7,7 @@
 * [Portfolio NFT](users/portfolio-nft.md)
 * [Bridges](users/bridges.md)
 * [Risk](users/risk.md)
+* [FAQ](users/faq.md)
 
 ## Developer
 

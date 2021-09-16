@@ -13,3 +13,5 @@ description: These are the bridges that have been reviewed by the IndexPool team
 | [QuickswapLiquidityBridge](https://docs.indexpool.org/developer/bridges/trusted-bridges/quickswap-liquidity-bridge) | link |
 | [UniswapV2SwapBridge](https://docs.indexpool.org/developer/bridges/trusted-bridges/quickswap-swap-bridge) | link |
 
+
+
