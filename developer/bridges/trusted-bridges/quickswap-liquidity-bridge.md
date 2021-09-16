@@ -7,7 +7,7 @@ Deposits ERC20 tokens into a liquidity pool protocol.
 | Input Name | Description |
 | :--- | :--- |
 | tokens | List of two - token that will have liquidity added to pool |
-| percentages | List of two - percentages of the balance of ERC20 tokens that will be added to the poolminAmounts \(100000 = 100%\) |
+| percentages | List of two - percentages of the balance of ERC20 tokens that will be added to the pool \(100000 = 100%\) |
 | minAmounts | List of two - minimum amounts of the ERC20 tokens required to add liquidity |
 
 ```javascript
@@ -18,24 +18,20 @@ Deposits ERC20 tokens into a liquidity pool protocol.
     ) external;
 ```
 
-## AddLiquidityETH
+## RemoveLiquidity
 
-Deposits ERC20 token\(s\) and ETH \(Matic\) into a liquidity pool protocol. Please note that function is not payable but it uses the Wallet ETH balance for the swap. 
+Deposits ERC20 tokens into a liquidity pool protocol.
 
 | Input Name | Description |
 | :--- | :--- |
-| ethPercentage | Percentage of the balance of input ETH \(Matic\) that will be added to liquidity pool |
-| minAmountEth | Minimum amount of the input token required to add liquidity |
-| tokens | List of one - token that will have liquidity added alongside ETH \(Matic\) |
-| percentages | List of one - percentage of the balance of the ERC20 token that will be added to pool |
-| minAmounts | List of one - minimum amount of the ERC20 token required to add liquidity |
+| tokens | List of two - token that will be removed from the pool |
+| percentage | Percentage of the balance of the ERC20 LP token that will be converted out of the pool \(100000 = 100%\) |
+| minAmounts | List of two - minimum amounts of the ERC20 tokens to succeed in removing liquidity |
 
 ```javascript
-function addLiquidityETH(
-        uint256 ethPercentage,
-        uint256 minAmountEth,
+ function removeLiquidity(
         address[] calldata tokens,
-        uint256[] calldata percentages,
+        uint256 calldata percentage,
         uint256[] calldata minAmounts
     ) external;
 ```

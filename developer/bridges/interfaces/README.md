@@ -7,12 +7,13 @@ Bridges interfaces are solidity [Interfaces](https://docs.soliditylang.org/en/la
 
 Current interfaces and its purposes are given below:
 
-| Interface | For bridges implementing... | Children bridges |
+| Interface | For bridges implementing... | Bridge examples |
 | :--- | :--- | :--- |
 | ISwap | swap operations | QuickswapSwapBridge.sol |
 | ILiquidity | add/remove liquidity operations | QuickswapLiquidityBridge.sol |
 | IStake | staking operations | AaveV2DepositBridge.sol |
-| IWrap | wrapping operations | WMaticBridge.sol |
+| IWrap | wrapping / unwrapping MATIC | WMaticBridge.sol |
+| IFarmPoolId |  |  |
 
 
 

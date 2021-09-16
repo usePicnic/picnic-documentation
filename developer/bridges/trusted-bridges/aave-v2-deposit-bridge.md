@@ -17,18 +17,6 @@ Deposits a ERC20 token into the Aave protocol.
 function deposit(address assetIn, uint256 percentage) external;
 ```
 
-## Harvest
-
-Claim rewards from the Aave protocol.
-
-| Input Name | Description |
-| :--- | :--- |
-| asset | Address of the asset that will be harvested \(DAI, WETH, WBTC...\) |
-
-```javascript
-function harvest(address asset) external;
-```
-
 ## Withdraw
 
 Withdraws from the Aave protocol.
