@@ -1,6 +1,6 @@
 # Interfaces
 
-Bridges interfaces are solidity [Interfaces](https://docs.soliditylang.org/en/latest/contracts.html?highlight=Interfaces#interfaces) that standardize IndexPool bridges according to their purpose. 
+Bridges interfaces are solidity [Interfaces](https://docs.soliditylang.org/en/latest/contracts.html?highlight=Interfaces#interfaces) that standardize IndexPool bridges according to their inputs and outputs. The main use case for this are project forks, but it may be used in case there are protocols that are very similar.
 
 1. Bridges inherit from interfaces.
 2. Interfaces have events that have to be used to have a consistent UI / UX for our users.

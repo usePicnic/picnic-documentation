@@ -4,6 +4,8 @@ description: "\U0001F44B Welcome to Pods' docs. This documentation aims to provi
 
 # QuickswapSwapBridge
 
+Inherits from [IUniswapV2Swap](https://docs.indexpool.org/developer/bridges/interfaces/iuniswapv2swap). See code on [github](https://github.com/indexpool/indexpool-contracts/blob/main/contracts/bridges/trusted/QuickswapSwapBridge/QuickswapSwapBridge.sol).
+
 ## SwapTokenToToken
 
 Swaps from ERC20 token to ERC20 token.

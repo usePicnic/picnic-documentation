@@ -1,16 +1,14 @@
 # IUniswapV2Liquidity
 
-## Functions
-
-### AddLiquidity
+## AddLiquidity
 
 Deposits ERC20 tokens into a liquidity pool protocol.
 
 | Input Name | Description |
 | :--- | :--- |
-| tokens | List of n - token that will have liquidity added to pool |
-| percentages | List of n - percentages of the balance of ERC20 tokens that will be added to the poolminAmounts \(100000 = 100%\) |
-| minAmounts | List of n - minimum amounts of the ERC20 tokens required to add liquidity |
+| tokens | List of two - token that will have liquidity added to pool |
+| percentages | List of two - percentages of the balance of ERC20 tokens that will be added to the pool \(100000 = 100%\) |
+| minAmounts | List of two - minimum amounts of the ERC20 tokens required to add liquidity |
 
 ```javascript
  function addLiquidity(
@@ -20,29 +18,21 @@ Deposits ERC20 tokens into a liquidity pool protocol.
     ) external;
 ```
 
-### AddLiquidityETH
+## RemoveLiquidity
 
-Deposits ERC20 token\(s\) and ETH \(Matic\) into a liquidity pool protocol. _Please note that function is not payable but it uses the Wallet ETH balance for the swap._
+Deposits ERC20 tokens into a liquidity pool protocol.
 
 | Input Name | Description |
 | :--- | :--- |
-| ethPercentage | Percentage of the balance of input ETH \(Matic\) that will be added to liquidity pool |
-| minAmountEth | Minimum amount of the input token required to add liquidity |
-| tokens | List of n - token that will have liquidity added alongside ETH \(Matic\) |
-| percentages | List of n - percentage of the balance of the ERC20 token that will be added to pool |
-| minAmounts | List of n - minimum amount of the ERC20 token required to add liquidity |
+| tokens | List of two - token that will be removed from the pool |
+| percentage | Percentage of the balance of the ERC20 LP token that will be converted out of the pool \(100000 = 100%\) |
+| minAmounts | List of two - minimum amounts of the ERC20 tokens to succeed in removing liquidity |
 
 ```javascript
-function addLiquidityETH(
-        uint256 ethPercentage,
-        uint256 minAmountEth,
+ function removeLiquidity(
         address[] calldata tokens,
-        uint256[] calldata percentages,
+        uint256 calldata percentage,
         uint256[] calldata minAmounts
     ) external;
 ```
-
-## Events
-
-
 

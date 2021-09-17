@@ -1,5 +1,7 @@
 # AutofarmDepositBridge
 
+Inherits from [IAutofarmDeposit](https://docs.indexpool.org/developer/bridges/interfaces/iautofarmdeposit). See code on [github](https://github.com/indexpool/indexpool-contracts/blob/main/contracts/bridges/trusted/AutofarmDepositBridge/AutofarmDepositBridge.sol).
+
 ## Deposit
 
 Deposits a ERC20 token into the Autofarm protocol.

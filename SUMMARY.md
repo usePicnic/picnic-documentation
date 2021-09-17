@@ -34,5 +34,5 @@
 
 ## Source Code
 
-* [Github](source-code/github.md)
+* [Contracts](https://github.com/indexpool/indexpool-contracts)
 

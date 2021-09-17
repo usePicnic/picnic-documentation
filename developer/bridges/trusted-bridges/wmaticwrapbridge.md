@@ -1,5 +1,7 @@
 # WMaticWrapBridge
 
+Inherits from [IWMaticWrap](https://docs.indexpool.org/developer/bridges/interfaces/iwmaticwrap). See code on [github](https://github.com/indexpool/indexpool-contracts/blob/main/contracts/bridges/trusted/WMaticWrapBridge/WMaticWrapBridge.sol).
+
 ## Wrap
 
 Convert MATIC into WMATIC.

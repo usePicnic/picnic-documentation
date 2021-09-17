@@ -4,6 +4,8 @@ description: "\U0001F44B Welcome to Pods' docs. This documentation aims to provi
 
 # AaveV2DepositBridge
 
+Inherits from [IAaveV2Deposit](https://docs.indexpool.org/developer/bridges/interfaces/iaavev2deposit). See code on [github](https://github.com/indexpool/indexpool-contracts/blob/main/contracts/bridges/trusted/AaveV2DepositBridge/AaveV2DepositBridge.sol).
+
 ## Deposit
 
 Deposits a ERC20 token into the Aave protocol.
@@ -29,6 +31,4 @@ Withdraws from the Aave protocol.
 ```javascript
 function withdraw(address assetOut, uint256 percentageOut) external;
 ```
-
-
 

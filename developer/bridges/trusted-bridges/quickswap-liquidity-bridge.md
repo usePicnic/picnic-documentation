@@ -1,5 +1,7 @@
 # QuickswapLiquidityBridge
 
+Inherits from [IUniswapV2Liquidity](https://docs.indexpool.org/developer/bridges/interfaces/iuniswapv2liquidity). See code on [github](https://github.com/indexpool/indexpool-contracts/blob/main/contracts/bridges/trusted/QuickswapLiquidityBridge/QuickswapLiquidityBridge.sol).
+
 ## AddLiquidity
 
 Deposits ERC20 tokens into a liquidity pool protocol.
