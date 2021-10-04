@@ -5,6 +5,7 @@
 ## Users
 
 * [Portfolio NFT](users/portfolio-nft.md)
+* [Swaps](users/swaps.md)
 * [Bridges](users/bridges.md)
 * [Risk](users/risk.md)
 * [FAQ](users/faq.md)
