@@ -10,7 +10,7 @@ Currently Polygon does not use [EIP-1559](https://ethereum.org/en/developers/doc
 
 Note that every transaction requires at least 21,000 gas, regardless of the complexity of the operation. Consequently, producing these transactions manually on Metamask, besides time-consuming, costs 12,000 gas **for each transaction**. On the other hand, by using our contracts, you can batch several operations in a **single transaction **avoiding this costly overhead.&#x20;
 
-IndexPool also has a 0.01% fee for each deposit (ETH or ERC20 token) on your Wallet, which will be used to support new features for IndexPool.
+IndexPool also has a 0.1% fee for each deposit (ETH or ERC20 token) on your Wallet, which will be used to support new features for IndexPool.
 
 **Summary of fees**:
 
