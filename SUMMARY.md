@@ -7,6 +7,7 @@
 * [Portfolio NFT](users/portfolio-nft.md)
 * [Swaps](users/swaps.md)
 * [Bridges](users/bridges.md)
+* [Fees](users/fees.md)
 * [Risk](users/risk.md)
 * [FAQ](users/faq.md)
 
@@ -36,4 +37,3 @@
 ## Source Code
 
 * [Contracts](https://github.com/indexpool/indexpool-contracts)
-
