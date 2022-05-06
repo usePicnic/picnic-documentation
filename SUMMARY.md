@@ -1,39 +1,46 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [Introduction](README.md)
+* [Team](team.md)
 
-## Users
+## What is DeFi Basket? <a href="#what-is" id="what-is"></a>
 
-* [Portfolio NFT](users/portfolio-nft.md)
-* [Swaps](users/swaps.md)
-* [Bridges](users/bridges.md)
-* [Fees](users/fees.md)
-* [Risk](users/risk.md)
-* [FAQ](users/faq.md)
+* [Overview](what-is/overview.md)
+* [Risks](what-is/risks.md)
+* [Fees](what-is/fees.md)
 
-## Developer
+## How to Use DeFi Basket?
 
-* [Architecture](developer/architecture.md)
-* [IndexPool](developer/readme-2.md)
-* [Wallet](developer/readme-1-1.md)
-* [Bridges](developer/bridges/README.md)
-  * [Interfaces](developer/bridges/interfaces/README.md)
-    * [IAaveV2Deposit](developer/bridges/interfaces/iaavev2deposit.md)
-    * [IAutofarmDeposit](developer/bridges/interfaces/iautofarmdeposit.md)
-    * [IUniswapV2Liquidity](developer/bridges/interfaces/iuniswapv2liquidity.md)
-    * [IUniswapV2Swap](developer/bridges/interfaces/iuniswapv2swap.md)
-    * [IWMaticWrap](developer/bridges/interfaces/iwmaticwrap.md)
-  * [Trusted Bridges](developer/bridges/trusted-bridges/README.md)
-    * [AaveV2DepositBridge](developer/bridges/trusted-bridges/aave-v2-deposit-bridge.md)
-    * [AutofarmDepositBridge](developer/bridges/trusted-bridges/autofarm-deposit-bridge.md)
-    * [QuickswapLiquidityBridge](developer/bridges/trusted-bridges/quickswap-liquidity-bridge.md)
-    * [QuickswapSwapBridge](developer/bridges/trusted-bridges/quickswap-swap-bridge.md)
-    * [WMaticWrapBridge](developer/bridges/trusted-bridges/wmaticwrapbridge.md)
+* [Basic Guide](how-to-use-defi-basket/basic-guide.md)
 
-## Deployed Contracts
+## How Does it Work?
 
-* [Polygon](deployed-contracts/polygon.md)
+* [Portfolio NFT](how-does-it-work/portfolio-nft.md)
+* [Swaps](how-does-it-work/swaps.md)
+* [Bridges](how-does-it-work/bridges.md)
 
-## Source Code
+## Frequently Asked Questions
 
-* [Contracts](https://github.com/indexpool/indexpool-contracts)
+* [FAQ](frequently-asked-questions/faq.md)
+
+## Technical Reference <a href="#technical-ref" id="technical-ref"></a>
+
+* [DeFi Basket](technical-ref/readme-2.md)
+* [Wallet](technical-ref/readme-1-1/README.md)
+  * [Architecture](technical-ref/readme-1-1/architecture.md)
+* [Bridges](technical-ref/bridges/README.md)
+  * [Interfaces](technical-ref/bridges/interfaces/README.md)
+    * [IAaveV2Deposit](technical-ref/bridges/interfaces/iaavev2deposit.md)
+    * [IAutofarmDeposit](technical-ref/bridges/interfaces/iautofarmdeposit.md)
+    * [IUniswapV2Liquidity](technical-ref/bridges/interfaces/iuniswapv2liquidity.md)
+    * [IUniswapV2Swap](technical-ref/bridges/interfaces/iuniswapv2swap.md)
+    * [IWMaticWrap](technical-ref/bridges/interfaces/iwmaticwrap.md)
+  * [Trusted Bridges](technical-ref/bridges/trusted-bridges/README.md)
+    * [AaveV2DepositBridge](technical-ref/bridges/trusted-bridges/aave-v2-deposit-bridge.md)
+    * [AutofarmDepositBridge](technical-ref/bridges/trusted-bridges/autofarm-deposit-bridge.md)
+    * [QuickswapLiquidityBridge](technical-ref/bridges/trusted-bridges/quickswap-liquidity-bridge.md)
+    * [QuickswapSwapBridge](technical-ref/bridges/trusted-bridges/quickswap-swap-bridge.md)
+    * [WMaticWrapBridge](technical-ref/bridges/trusted-bridges/wmaticwrapbridge.md)
+* [Smart Contracts](technical-ref/polygon.md)
+* [Security Audits](https://github.com/defibasket/defibasket-contracts/tree/main/audits)
+* [Source code](https://github.com/indexpool/indexpool-contracts)
