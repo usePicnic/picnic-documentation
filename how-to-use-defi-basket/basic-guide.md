@@ -1,33 +1,21 @@
-# Basic Guide
+# 🪄 Exploring Baskets
 
-Here we will explain the three main use cases for DeFi Basket:
+In the Explore section you're presented with a list of baskets already created on the system.&#x20;
 
-* ****[**Copying**](basic-guide.md#how-to-copy-a-portfolio) a portfolio
-* ****[**Creating**](basic-guide.md#how-to-create-a-portfolio) a portfolio
-* ****[**Sharing**](basic-guide.md#how-to-share-a-portfolio) a portfolio
+Each basket is represented by a card and contains different information, as shown below.
 
-## How to copy a portfolio?
+![Explore Baskets section](<../.gitbook/assets/image (18).png>)
 
-DeFi Basket enables you to **choose a portfolio you like and copy it entirely in just one transaction**. You can check a list of portfolios [here](https://www.defibasket.org/portfolios).
+### Filtering Baskets
 
-![How to copy a portfolio](../.gitbook/assets/CopyPortfolio.gif)
+You are able to filter the basket by searching part of their name, or sorting them by amount, APY or name.
 
-To copy a portfolio, click on **Invest**. In this screen, select the portfolio you want to copy in the **Featured** ✨ **** section. This will show you the details of the portfolio allocation and the current invested money on it.&#x20;
+### Portfolio Card Details
 
-Click on **Copy Portfolio**, then select the amount of MATIC you want to invest in your copy. After inputting this value, click on **Preview Transaction**. The operations that will be done to generate the portfolio **** will be shown, and you can finish copying the portfolio by clicking on the <mark style="color:blue;">**Copy Portfolio**</mark> button.
+Each basket card summarises a number of characteristics related to the basket composition and performance. By looking at the card you're able to know the:
 
-## How to create a portfolio?
-
-If there is no portfolio you would like to copy, you also have the option to set the desired allocations in our UI and to buy them with just one click. You can do it [here](https://www.defibasket.org/create).
-
-![How to create a portfolio - note that you can choose assets from multiple types of protocols.](../.gitbook/assets/CreatePortfolio.gif)
-
-First, click on **Create**. In this screen, you will be able to select the assets that will be included in your portfolio and their proportions (in USD). We support integration with **Aave**, **Autofarm** and many **ERC20** tokens, and you can filter the assets based on its type. If an asset is not present in the asset list, but you want us to include it, [send us a message](mailto:hi@defibastket.org)! :smile:
-
-After this step is done, click on **Next Step** and select the token which you want to deposit to initialize the portfolio and how much you would like to deposit. Then, click on **Next Step**.
-
-The operations that will be done to generate the portfolio **** will be shown, and you can finish creating the portfolio by clicking on the <mark style="color:blue;">**Create Portfolio**</mark> button. If you want to edit or check your portfolios later, click on **Invest**  (or click directly in [this link](https://www.defibasket.org/portfolios)).
-
-## How to share a portfolio?
-
-If you have a portfolio you like and would like to share, you can see all the portfolios you own [here](https://www.defibasket.org/portfolios). Just click in one of them and share the link in the address bar so others will be able to copy it.
+* Name of the basket -> the name chosen by the basket owner
+* Estimated APY -> this number is calculated based on the relative allocation of each asset of the basket
+* Amount invested -> since each basket is connected to a single wallet address, this amount reflects the amount deposited into this particular basket. There might be more than one basket cloning the same strategy. However the summed amount of everyone wallet address using a particular strategy is not available in our user interface.&#x20;
+* Asset icons and distribution -> a decorative logo for each asset is included, together with a brief descriptions of the asset and its percentile allocation within the basket.
+* Last 7 days performance -> the mini graph presents an idea of the basket performance in the last 7 days. Inside the portfolio details page you have the possibility to further explore the basket's performance in a larger graphic representation.

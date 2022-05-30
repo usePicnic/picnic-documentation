@@ -1,4 +1,4 @@
-# Fees
+# 💸 Fees
 
 The only fee accrued by the DeFi Basket protocol is a **0.1% deposit fee**. All rebalancing that happens with already deposited funds is free from fees.
 

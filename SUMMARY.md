@@ -1,17 +1,20 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Team](team.md)
+* [📰 Introduction](README.md)
+* [🧑🤝🧑 Team](team.md)
 
 ## What is DeFi Basket? <a href="#what-is" id="what-is"></a>
 
-* [Overview](what-is/overview.md)
-* [Risks](what-is/risks.md)
-* [Fees](what-is/fees.md)
+* [⚡ Overview](what-is/overview.md)
+* [🚨 Risks](what-is/risks.md)
+* [💸 Fees](what-is/fees.md)
 
 ## How to Use DeFi Basket?
 
-* [Basic Guide](how-to-use-defi-basket/basic-guide.md)
+* [🪄 Exploring Baskets](how-to-use-defi-basket/basic-guide.md)
+* [🍯 Cloning a Basket](how-to-use-defi-basket/basic-guide-1.md)
+* [🆕 Creating a Basket](how-to-use-defi-basket/basic-guide-2.md)
+* [🧺 Managing your Basket](how-to-use-defi-basket/managing-your-basket.md)
 
 ## How Does it Work?
 

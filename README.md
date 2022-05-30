@@ -1,8 +1,8 @@
-# Introduction
+# 📰 Introduction
 
 ## What is DeFi Basket?
 
-DeFi Basket is a protocol that enables you to **build or copy portfolios of DeFi investments in a single transaction**.
+DeFi Basket is a protocol that enables you to **build, clone, and manage baskets of DeFi investments in a single transaction**.
 
 [Learn more](broken-reference).
 
