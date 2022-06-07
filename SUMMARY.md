@@ -15,10 +15,11 @@
 * [🍯 Cloning a Basket](how-to-use-defi-basket/basic-guide-1.md)
 * [🆕 Creating a Basket](how-to-use-defi-basket/basic-guide-2.md)
 * [🧺 Managing your Basket](how-to-use-defi-basket/managing-your-basket.md)
+* [🎁 Gifting or Transfering your Basket](how-to-use-defi-basket/gifting-or-transfering-your-basket.md)
 
 ## How Does it Work?
 
-* [Portfolio NFT](how-does-it-work/portfolio-nft.md)
+* [Basket NFT](how-does-it-work/portfolio-nft.md)
 * [Swaps](how-does-it-work/swaps.md)
 * [Bridges](how-does-it-work/bridges.md)
 

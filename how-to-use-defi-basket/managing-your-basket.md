@@ -4,7 +4,7 @@ A list of all basket associated to your wallet address is available in the [My B
 
 ### Information&#x20;
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 List of information available on the basket details page:
 
@@ -54,7 +54,7 @@ When editing a basket, you're presented with the same interface used to create a
 
 > Important: we only allow basket edition if 100% of the funds are allocated on the selected assets. We included a calculator on the bottom part of the Portfolio allocation interface to assist in the calculation.
 
-![Edit allocation interface](<../.gitbook/assets/image (9).png>)
+![Edit allocation interface](<../.gitbook/assets/image (9) (1).png>)
 
 After you're done editing your allocation, you'll then be able to preview the transactions and the final allocation when clicking the `Next step` button.&#x20;
 
