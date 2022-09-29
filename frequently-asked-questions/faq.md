@@ -4,15 +4,15 @@ description: Frequently-asked questions
 
 # FAQ
 
-### Is DeFi Basket a liquidity pool?
+### Is Picnic a liquidity pool?
 
-No. DeFi Basket is a secure crypto-portfolio builder and manager that helps you navigate through the DeFI farms of yield 👨🏻‍🌾, liquidity pools, lending pools or any other DeFi components.
+No. Picnic is a secure crypto-portfolio builder and manager that helps you navigate through the DeFI farms of yield 👨🏻‍🌾, liquidity pools, lending pools or any other DeFi components.
 
 ### Is my NFT Portfolio's Wallet the same as my Metamask wallet?
 
-No, while both can be used to store ETH (MATIC) and ERC20 tokens, your DeFi Basket wallet enables you to batch in a single transaction the many transactions that you would need to do for the same operation in your Metamask wallet.&#x20;
+No, while both can be used to store ETH (MATIC) and ERC20 tokens, your Picnic wallet enables you to batch in a single transaction the many transactions that you would need to do for the same operation in your Metamask wallet.&#x20;
 
-For a more technical reference, your Metamask wallet is an [externally owned account](https://ethereum.org/en/developers/docs/accounts/#types-of-account) (EOA). Your DeFi Basket wallet is a smart contract.
+For a more technical reference, your Metamask wallet is an [externally owned account](https://ethereum.org/en/developers/docs/accounts/#types-of-account) (EOA). Your Picnic wallet is a smart contract.
 
 ### Can I sell my Portfolio NFT on OpenSea?
 

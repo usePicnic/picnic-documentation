@@ -3,19 +3,19 @@
 * [📰 Introduction](README.md)
 * [🧑🤝🧑 Team](team.md)
 
-## What is DeFi Basket? <a href="#what-is" id="what-is"></a>
+## What is Picnic? <a href="#what-is" id="what-is"></a>
 
 * [⚡ Overview](what-is/overview.md)
 * [🚨 Risks](what-is/risks.md)
 * [💸 Fees](what-is/fees.md)
 
-## How to Use DeFi Basket?
+## How to Use Picnic?
 
-* [🪄 Exploring Baskets](how-to-use-defi-basket/basic-guide.md)
-* [🍯 Cloning a Basket](how-to-use-defi-basket/basic-guide-1.md)
-* [🆕 Creating a Basket](how-to-use-defi-basket/basic-guide-2.md)
-* [🧺 Managing your Basket](how-to-use-defi-basket/managing-your-basket.md)
-* [🎁 Gifting or Transfering your Basket](how-to-use-defi-basket/gifting-or-transfering-your-basket.md)
+* [🪄 Exploring Baskets](how-to-use-picnic/basic-guide.md)
+* [🍯 Cloning a Basket](how-to-use-picnic/basic-guide-1.md)
+* [🆕 Creating a Basket](how-to-use-picnic/basic-guide-2.md)
+* [🧺 Managing your Basket](how-to-use-picnic/managing-your-basket.md)
+* [🎁 Gifting or Transfering your Basket](how-to-use-picnic/gifting-or-transfering-your-basket.md)
 
 ## How Does it Work?
 
@@ -29,7 +29,7 @@
 
 ## Technical Reference <a href="#technical-ref" id="technical-ref"></a>
 
-* [DeFi Basket](technical-ref/readme-2.md)
+* [Picnic](technical-ref/readme-2.md)
 * [Wallet](technical-ref/readme-1-1/README.md)
   * [Architecture](technical-ref/readme-1-1/architecture.md)
 * [Bridges](technical-ref/bridges/README.md)

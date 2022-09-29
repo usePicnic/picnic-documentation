@@ -1,10 +1,10 @@
 # 💸 Fees
 
-The only fee accrued by the DeFi Basket protocol is a **0.1% deposit fee**. All rebalancing that happens with already deposited funds is free from fees.
+The only fee accrued by the Picnic protocol is a **0.1% deposit fee**. All rebalancing that happens with already deposited funds is free from fees.
 
 **Summary of fees**
 
-Besides the DeFi Basket deposit fee, there are **protocol fees** and **transaction fees** that are explained in more detail further down the page.
+Besides the Picnic deposit fee, there are **protocol fees** and **transaction fees** that are explained in more detail further down the page.
 
 #### Protocol Fees
 

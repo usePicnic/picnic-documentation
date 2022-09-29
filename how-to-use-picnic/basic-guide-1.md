@@ -1,6 +1,6 @@
 # 🍯 Cloning a Basket
 
-DeFi Basket enables you to easily clone a basket with a single transaction, no matter how complex it may be. You just choose the amount to be deposited and approve the transaction. In a few minutes it should be ready for you to manage.
+Picnic enables you to easily clone a basket with a single transaction, no matter how complex it may be. You just choose the amount to be deposited and approve the transaction. In a few minutes it should be ready for you to manage.
 
 &#x20;You can check a list of baskets [here](https://www.defibasket.org/portfolios).
 
@@ -12,9 +12,9 @@ Click on the **`Clone`** button, then select the token for deposit and input the
 
 You'll be required to perform two approvals with gas costs:
 
-1. Approve DeFi Basket to use the amount you're depositing (usually very low gas)
+1. Approve Picnic to use the amount you're depositing (usually very low gas)
 2. Approve the single transaction to create your basket and invest in the selected assets (gas costs depends on the complexity of the selected assets)
 
 > **IMPORTANT**: Remember to keep some native tokens to pay for gas costs, otherwise your transaction may fail.
 
-Your basket will be available on the My Baskets page as soon as the transaction gets processed on DeFi Basket's backend. This may take a few minutes. Rest assured that your transaction is safe and sound as soon as Polygon processes it (a notification will be shown on the top right corner of the screen).&#x20;
+Your basket will be available on the My Baskets page as soon as the transaction gets processed on Picnic's backend. This may take a few minutes. Rest assured that your transaction is safe and sound as soon as Polygon processes it (a notification will be shown on the top right corner of the screen).&#x20;

@@ -1,6 +1,6 @@
 # Interfaces
 
-Bridges interfaces are solidity [Interfaces](https://docs.soliditylang.org/en/latest/contracts.html?highlight=Interfaces#interfaces) that standardize DeFi Basket's bridges according to their inputs and outputs. The main use case for this are project forks, but it may be used in case there are protocols that are very similar.
+Bridges interfaces are solidity [Interfaces](https://docs.soliditylang.org/en/latest/contracts.html?highlight=Interfaces#interfaces) that standardize Picnic's bridges according to their inputs and outputs. The main use case for this are project forks, but it may be used in case there are protocols that are very similar.
 
 1. Bridges inherit from interfaces.
 2. Interfaces have events that have to be used to have a consistent UI / UX for our users.

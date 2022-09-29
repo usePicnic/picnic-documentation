@@ -14,7 +14,7 @@ We also use bridges to generate events that are processed so we have all the dat
 
 ## Why bridges?
 
-Bridges coupled with delegate calls enable us to extend functionality to the DeFi Basket contract. This means that will be able to integrate with protocols and interfaces that might be very different from the ones we are using now.
+Bridges coupled with delegate calls enable us to extend functionality to the Picnic contract (currently, DeFi Basket contract). This means that will be able to integrate with protocols and interfaces that might be very different from the ones we are using now.
 
 This is especially appealing as we can guarantee that if liquidity shifts from one protocol to another, we can still offer a really good user experience, as we can just shift which bridges we are using to route our orders in a way that is most efficient for our users.
 

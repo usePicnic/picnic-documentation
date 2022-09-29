@@ -68,4 +68,4 @@ When withdrawing your funds, you should perform the following actions:&#x20;
 2. Select the token you'd like to receive back your funds
 3. Define the percentage of funds to be withdrawn.&#x20;
 
-When selecting a percentage lower than 100%, DeFi Basket you calculate the value to be withdrawn based on the overall basket value and the percentage input by the user. It will then make sure to keep the allocation percentages as they were before the withdraw event.&#x20;
+When selecting a percentage lower than 100%, Picnic you calculate the value to be withdrawn based on the overall basket value and the percentage input by the user. It will then make sure to keep the allocation percentages as they were before the withdraw event.&#x20;

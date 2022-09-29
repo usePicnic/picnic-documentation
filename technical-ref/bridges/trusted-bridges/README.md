@@ -1,5 +1,5 @@
 ---
-description: These are the bridges that have been reviewed by the DeFi Basket team.
+description: These are the bridges that have been reviewed by Picnic's team.
 ---
 
 # Trusted Bridges

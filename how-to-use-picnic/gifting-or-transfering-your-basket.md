@@ -1,8 +1,8 @@
 # 🎁 Gifting or Transfering your Basket
 
-One of the cool functionalities of DeFi Basket is that you're able to gift or transfer a basket of assets to someone else. You just need to transfer the NFT that encapsulates your smart wallet to the destination wallet address (see [more details of our architecture](../how-does-it-work/portfolio-nft.md)). This section will guide you through it. It's quite simple.
+One of the cool functionalities of Picnic is that you're able to gift or transfer a basket of assets to someone else. You just need to transfer the NFT that encapsulates your smart wallet to the destination wallet address (see [more details of our architecture](../how-does-it-work/portfolio-nft.md)). This section will guide you through it. It's quite simple.
 
-There are many ways of transferring an asset from your wallet address to another. This article will use OpenSea, the largest and most known NFT marketplace, as the tool to assist your transfer. However, you may use any other tool that recognises DeFi Basket's NFT.
+There are many ways of transferring an asset from your wallet address to another. This article will use OpenSea, the largest and most known NFT marketplace, as the tool to assist your transfer. However, you may use any other tool that recognises Picnic's NFT.
 
 > **IMPORTANT**&#x20;
 >
@@ -10,7 +10,7 @@ There are many ways of transferring an asset from your wallet address to another
 
 ### Fees
 
-Gifting or transferring a DeFi Basket NFT is **free of charge**. The only cost you'll have is gas.
+Gifting or transferring a Picnic NFT is **free of charge**. The only cost you'll have is gas.
 
 ### Accessing OpenSea
 
@@ -22,7 +22,7 @@ Your first step should be head to [https://opensea.io](https://opensea.io) and c
 
 After the connection is established, go to your profile page by clicking on your profile icon or accessing it through this [link](https://opensea.io/account). In this page you'll have access to the Collected items, where you'll have a card for each NFT owned by your wallet.
 
-DeFi Basket's cards are presented with images such as the ones below. Note that they may differ is the basket is empty or not.
+Picnic's cards are presented with images such as the ones below. Note that they may differ is the basket is empty or not.
 
 ![](<../.gitbook/assets/image (9).png>)
 
