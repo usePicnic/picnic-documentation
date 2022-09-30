@@ -8,6 +8,7 @@
 * [⚡ Overview](what-is/overview.md)
 * [🚨 Risks](what-is/risks.md)
 * [💸 Fees](what-is/fees.md)
+* [❓ Picnic Launch FAQ](what-is/picnic-launch-faq.md)
 
 ## How to Use Picnic?
 
